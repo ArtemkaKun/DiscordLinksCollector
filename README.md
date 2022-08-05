@@ -9,7 +9,7 @@ To make this code work you need to have a .env.discord file near an executable w
 If you not sure what XHR is - I mean that funny stuff when you open a Discord in a browser, press f12, go to the Networking tab and reload the page.
 If you click on any, you will see a details of it, request data, response data, and more.
 
-# If you are don't know what the V is
+# If you don't know what is the V
 
 1. Install V as described here - https://github.com/vlang/v#installing-v---from-source-preferred-method
 2. `cd` to the root of this repo and `v .` then `./DiscordLinksCollector`
