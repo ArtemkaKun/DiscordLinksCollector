@@ -1,0 +1,10 @@
+# Binaries for programs and plugins
+main
+DiscordLinksCollector
+*.exe
+*.exe~
+*.so
+*.dylib
+*.dll
+vls.log
+.env.discord
