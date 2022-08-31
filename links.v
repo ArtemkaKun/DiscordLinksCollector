@@ -100,9 +100,11 @@ fn get_search_data_from_response(response http.Response) SearchData {
 // {
 //   "total_results": 1,
 //   "messages": [
-//     {
-//       "content": "WOW LOOK AT THIS STUFF - https://discord.gg/123456789"
-//     }
+//		[
+//			{
+//				"content": "WOW LOOK AT THIS STUFF - https://discord.gg/123456789"
+//			}
+//		]
 //   ]
 // }
 //
